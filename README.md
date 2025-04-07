@@ -9,7 +9,7 @@
 
 
 ## **1. git config --list**
-- displays all the git configuration settings currently in effect for your system, user, and repository
+- displays all the git configuration settings currently in effect for our system, user, and repository
 
 
 ## **2. git init**
@@ -41,7 +41,7 @@
 ## **7. git push**
 - pushes commits from the local repository to the remote repository (GitHub)
 - for example: 'git push -u origin main'
-- '-u' flag sets origin main as the default upstream branch so in the future you can just type git push
+- '-u' flag sets origin main as the default upstream branch so in the future we can just type git push
 
 
 ## **8. git pull**
