@@ -1,8 +1,8 @@
-Name: Agata  
-Surname: Zając  
-Age: 20  
-Date: April 7, 2025  
-Field of study: Bioinformatics
+**Name:** Agata  
+**Surname:** Zając  
+**Age:** 20  
+**Date:** April 7, 2025  
+**Field of study:** Bioinformatics
 
 
 **Useful Git commands:**
