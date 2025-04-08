@@ -4,7 +4,7 @@
 **Field of study:** Bioinformatics
 
 
-**Useful Git commands:**
+###**Useful Git commands:**
 
 
 ## **1. git config --list**
